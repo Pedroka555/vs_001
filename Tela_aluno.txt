@@ -1,8 +1,6 @@
 Uninove
 
-vers√£o: 2
+vers„o: 1
 
 Nome:
 RA:
-data de nascimento:
-CPF:
